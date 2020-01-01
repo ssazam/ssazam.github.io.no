@@ -20,8 +20,8 @@ body {
 	text-transform: uppercase;
 	@include clearfix;
 	border-bottom-style: solid;
-	border-bottom-color: $highlightcolor;
-	border-bottom-width: .5em;
+	border-bottom-color: $lowlightcolor;
+	border-bottom-width: 2em;
 }
 
 /* Site name */
@@ -29,7 +29,7 @@ body {
 	@include grid(12,10);
 	@include prefix(12,1);
 	@include suffix(12,1);
-	margin-bottom: 1em;
+/*	margin-bottom: 1em; */
 	float: none;
 	display: block;
 	@include font-rem(24);
@@ -42,6 +42,9 @@ body {
 	@media #{$x-large} {
 		@include grid(12,1.5);
 		@include prefix(12,2);
+	}
+	img {
+		max-width: 110px;
 	}
 }
 
@@ -226,9 +229,9 @@ $button-size: 1.5rem;
 	@include clearfix;
 	clear: both;
 	padding-top: 2em;
-	border-top-width: 2em;
+	border-top-width: 0.5em;
 	border-top-style: solid;
-	border-top-color: $lowlightcolor;
+	border-top-color: $highlightcolor;
 	h1 {
 		margin-top: 0;
 	}
@@ -381,7 +384,7 @@ $button-size: 1.5rem;
 	display: none;
 	.bio-photo {
 		max-width: 110px;
-		@include rounded(150px);
+		@include rounded(10px);
 	}
 	@media #{$small} {
 		display: block;
@@ -410,7 +413,7 @@ $button-size: 1.5rem;
 		.bio-photo,
 		p,
 		.author-social {
-			max-width: 150px;
+			max-width: 175px;
 		}
 	}
 	@media #{$x-large} {

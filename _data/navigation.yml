@@ -2,11 +2,17 @@
 - title: Home
   url: /
 
-- title: Presentations
-  url: /presentations/
+- title: Publications
+  url: /publications/
 
-- title: Resume
-  url: /resume/
+- title: Courses
+  url: /courses/
+
+- title: Education
+  url: /education/
+
+- title: Experience
+  url: /experience/
 
 - title: Blog
-  url: /blog/
+  url: https://machinelearningmedium.com
