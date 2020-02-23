@@ -3,68 +3,25 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+`August 2019 - Present`
+__Purdue University__
+<br/>Graduate Research Assistant
 
-## Education
+## Professional Experience
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`September 2018 - August 2019`
+__Foundation AI, Los Angeles, CA__
+<br/>Research Scientist
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`January 2017 - August 2018`
+__Practo Technologies, Bangalore, India__
+<br/>Data Scientist
 
-## Awards
+`May 2016 - January 2017`
+__Practo Technologies, Bangalore, India__
+<br/>Senior Software Engineer
 
-`2012`
-Name of Award, Organization 
-
-## Publications
-
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
-
-## Occupation
-
-`Current`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
+`June 2015 - May 2016`
+__Practo Technologies, Bangalore, India__
+<br/>Software Engineer
 

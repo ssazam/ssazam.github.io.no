@@ -1,6 +1,6 @@
 FROM ruby:latest
 
-RUN gem install bundler:2.0.0.pre.1
+RUN gem install bundler -v '2.1.2'
 
 ADD ./Gemfile /web/Gemfile
 ADD ./Gemfile.lock /web/Gemfile.lock
