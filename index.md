@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resume
 excerpt: Home
 ---
 
