@@ -5,7 +5,7 @@ excerpt: Home
 
 ## About Me
 
-I am a PhD student at **School of Electrical and Computer Engineering, Purdue Univesity** advised by **Prof. Christopher Brinton** and **Prof. Saurabh Bagchi**. 
+I am a second year PhD student at **School of Electrical and Computer Engineering, Purdue Univesity** advised by **Prof. Christopher Brinton** and **Prof. Saurabh Bagchi**. 
 
 My research focuses on deep learning of objective-driven representations.
 
@@ -15,5 +15,6 @@ I have received Bachelor's Degree from **National Institute of Technology Karnat
 
 ## Recent Updates
 
-- Submission to **ICML 2020**: Exclusion-Inclusion GANs for Privacy Preservation
+- Conference submission to [**AAAI 2021**](https://aaai.org/Conferences/AAAI-21/aaai21call/): Towards Generalized and Distributed Privacy-Preserving Representation Learning
+- Journal submission to [**IEEE JSAC**](https://www.comsoc.org/publications/journals/ieee-jsac): [Multi-Stage Hybrid Federated Learning over Large-Scale Wireless Fog Networks](https://arxiv.org/abs/2007.09511) 
 
