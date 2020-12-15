@@ -5,16 +5,16 @@ excerpt: Home
 
 ## About Me
 
-I am a second year PhD student at **School of Electrical and Computer Engineering, Purdue Univesity** advised by **Prof. Christopher Brinton** and **Prof. Saurabh Bagchi**. 
+I am a second year **direct PhD student** in the [**School of Electrical and Computer Engineering**](https://engineering.purdue.edu/ECE) at [**Purdue Univesity**](https://www.purdue.edu/) advised by [**Prof. Christopher Brinton**](http://www.cbrinton.net/) and [**Prof. Saurabh Bagchi**](https://engineering.purdue.edu/~sbagchi/). 
 
-My research focuses on deep learning of objective-driven representations.
+I received my Bachelor's degree in [**Electrical and Electronics Engineering**](https://eee.nitk.ac.in/) from the [**National Institute of Technology Karnataka**](https://www.nitk.ac.in/) in 2015. My Bachelor's thesis focused on **"Supervised and Unsupervised Techniques for Image Segmentation"** advised by [**Prof. Ashvini Chaturvedi**](https://ece.nitk.ac.in/professor/ashvini-chaturvedi).
 
-Prior to this, I have worked for over **4 years as research scientist** solving problems in the field of healthcare and insurance (NLP: Document classification, OCR: specialized on-premise deployable models, Computer Vision: Cancer and Tuberculosis detection from Diagnostic Images).
+Prior to joining Purdue, I worked for a year as a **Research Scientist** at a California-based AI-solutions startup [**Foundation AI**](https://www.foundationai.com/) and for over 3 years as **Data Scientist** at a Bangalore-based healthcare startup [Practo](https://www.practo.com/). During my time in the industry, I have **built scalable ML solutions deployed in production** tackling real-world problems by leveraging advances in computer vision (CV), Natual Language Processing (NLP) and Deep Learning (DL). The novel solutions I built also led to **academic publications**, specifically in the field of document classification and low-latency information retrieval (details listed in [**Experience**](/experience/) section).
 
-I have received Bachelor's Degree from **National Institute of Technology Karnataka, India**. My Bachelor's thesis focuses on comparison of machine learning and classical techniques in "Image Segmentation", advised by Dr. Ashvini Chaturvedi. 
+## Research Interests
+My current research lies in the intersection of **Representation Learning, Distributed Learning, and Optimization**. One of the main focus of my work is to design and analyse representation learning algorithms that are **scalable, communication-efficient, memory-efficient and robust to adversarial perturbations**.
 
 ## Recent Updates
 
 - Conference submission to [**AAAI 2021**](https://aaai.org/Conferences/AAAI-21/aaai21call/): [Towards Generalized and Distributed Privacy-Preserving Representation Learning](https://arxiv.org/abs/2010.01792)
 - Journal submission to [**IEEE JSAC**](https://www.comsoc.org/publications/journals/ieee-jsac): [Multi-Stage Hybrid Federated Learning over Large-Scale Wireless Fog Networks](https://arxiv.org/abs/2007.09511) 
-
