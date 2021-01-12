@@ -7,12 +7,12 @@ layout: resume
 
 ## Journal
 
-**Azam, Sheikh Shams**, Manoj Raju, Venkatesh Pagidimarri, and Vamsi Chandra Kasivajjala. <br/>**"Q-Map: Clinical Concept Mining from Clinical Documents"**. World Academy of Science, Engineering and Technology, Open Science Index 141, International Journal of Computer and Information Engineering (2018), 12(9), 691 - 696. <br/>[**[pdf]**](https://publications.waset.org/10009490/pdf) [**[slides]**](https://drive.google.com/file/d/1DGFSsaRQIcWbYTSgilYVWDCwiikDg_Fh/view?usp=sharing)
+**Azam, Sheikh Shams**, Manoj Raju, Venkatesh Pagidimarri, and Vamsi Chandra Kasivajjala. <br/>**"Q-Map: Clinical Concept Mining from Clinical Documents"**. <br/>World Academy of Science, Engineering and Technology, Open Science Index 141, <br/>International Journal of Computer and Information Engineering (2018), 12(9), 691 - 696. <br/>[**[pdf]**](https://publications.waset.org/10009490/pdf) [**[slides]**](https://drive.google.com/file/d/1DGFSsaRQIcWbYTSgilYVWDCwiikDg_Fh/view?usp=sharing)
 
 
 ## Under Review
 
-**Azam, Sheikh Shams**, Taejin Kim, Seyyedali Hosseinalipour, Christopher G. Brinton, Carlee Joe-Wong, and Saurabh Bagchi. **"Towards Generalized and Distributed Privacy-Preserving Representation Learning."** arXiv preprint arXiv:2010.01792 (2020). <br/>Under review AAAI-2021. <br/>[**[pdf]**](https://arxiv.org/pdf/2010.01792.pdf)
+**Azam, Sheikh Shams**, Taejin Kim, Seyyedali Hosseinalipour, <br/>Christopher G. Brinton, Carlee Joe-Wong, and Saurabh Bagchi. <br/>**"Towards Generalized and Distributed Privacy-Preserving Representation Learning."** <br/>arXiv preprint arXiv:2010.01792 (2020). <br/>Under review AAAI-2021. <br/>[**[pdf]**](https://arxiv.org/pdf/2010.01792.pdf)
 
-Hosseinalipour, Seyyedali, **Sheikh Shams Azam**, Christopher G. Brinton, Nicolo Michelusi, Vaneet Aggarwal, David J. Love, and Huaiyu Dai. **"Multi-Stage Hybrid Federated Learning over Large-Scale Wireless Fog Networks."** arXiv preprint arXiv:2007.09511 (2020). <br/>Under review IEEE Transactions on Networking (TON). <br/>[**[pdf]**](https://arxiv.org/pdf/2007.09511.pdf)
+Hosseinalipour, Seyyedali, **Sheikh Shams Azam**, Christopher G. Brinton, <br/>Nicolo Michelusi, Vaneet Aggarwal, David J. Love, and Huaiyu Dai. <br/>**"Multi-Stage Hybrid Federated Learning over Large-Scale Wireless Fog Networks."** <br/>arXiv preprint arXiv:2007.09511 (2020). <br/>Under review IEEE Transactions on Networking (TON). <br/>[**[pdf]**](https://arxiv.org/pdf/2007.09511.pdf)
 
