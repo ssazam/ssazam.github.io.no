@@ -5,7 +5,7 @@ excerpt: Home
 
 ## About Me
 
-I am a second year **direct PhD student** in the [**School of Electrical and Computer Engineering**](https://engineering.purdue.edu/ECE) at [**Purdue Univesity**](https://www.purdue.edu/) advised by [**Prof. Christopher Brinton**](http://www.cbrinton.net/) and [**Prof. Saurabh Bagchi**](https://engineering.purdue.edu/~sbagchi/). 
+I am a second year **direct PhD student** in the [**School of Electrical and Computer Engineering**](https://engineering.purdue.edu/ECE) at [**Purdue Univesity**](https://www.purdue.edu/) advised by [**Prof. Christopher Brinton**](http://www.cbrinton.net/). 
 
 I received my Bachelor's degree in [**Electrical and Electronics Engineering**](https://eee.nitk.ac.in/) from the [**National Institute of Technology Karnataka**](https://www.nitk.ac.in/) in 2015. My Bachelor's thesis focused on **"Supervised and Unsupervised Techniques for Image Segmentation"** advised by [**Prof. Ashvini Chaturvedi**](https://ece.nitk.ac.in/professor/ashvini-chaturvedi).
 
