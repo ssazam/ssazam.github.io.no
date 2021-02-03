@@ -16,5 +16,5 @@ My current research lies in the intersection of **Representation Learning, Distr
 
 ## Recent Updates
 
-- Conference submission to [**AAAI 2021**](https://aaai.org/Conferences/AAAI-21/aaai21call/): [Towards Generalized and Distributed Privacy-Preserving Representation Learning](https://arxiv.org/abs/2010.01792)
+- Conference submission to [**ICML 2021**](https://icml.cc/Conferences/2021/CallForPapers): [Towards Generalized and Distributed Privacy-Preserving Representation Learning](https://arxiv.org/abs/2010.01792)
 - Journal submission to [**IEEE JSAC**](https://www.comsoc.org/publications/journals/ieee-jsac): [Multi-Stage Hybrid Federated Learning over Large-Scale Wireless Fog Networks](https://arxiv.org/abs/2007.09511) 
