@@ -12,7 +12,7 @@ layout: resume
 
 ## Under Review
 
-**Azam, Sheikh Shams**, Taejin Kim, Seyyedali Hosseinalipour, <br/>Christopher G. Brinton, Carlee Joe-Wong, and Saurabh Bagchi. <br/>**"Towards Generalized and Distributed Privacy-Preserving Representation Learning."** <br/>arXiv preprint arXiv:2010.01792 (2020). <br/>Under review AAAI-2021. <br/>[**[pdf]**](https://arxiv.org/pdf/2010.01792.pdf)
+**Azam, Sheikh Shams**, Taejin Kim, Seyyedali Hosseinalipour, <br/>Christopher G. Brinton, Carlee Joe-Wong, and Saurabh Bagchi. <br/>**"Towards Generalized and Distributed Privacy-Preserving Representation Learning."** <br/>arXiv preprint arXiv:2010.01792 (2020). <br/>Under review ICML-2021. <br/>[**[pdf]**](https://arxiv.org/pdf/2010.01792.pdf)
 
 Hosseinalipour, Seyyedali, **Sheikh Shams Azam**, Christopher G. Brinton, <br/>Nicolo Michelusi, Vaneet Aggarwal, David J. Love, and Huaiyu Dai. <br/>**"Multi-Stage Hybrid Federated Learning over Large-Scale Wireless Fog Networks."** <br/>arXiv preprint arXiv:2007.09511 (2020). <br/>Under review IEEE Transactions on Networking (TON). <br/>[**[pdf]**](https://arxiv.org/pdf/2007.09511.pdf)
 
