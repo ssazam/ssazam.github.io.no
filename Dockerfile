@@ -1,4 +1,4 @@
-FROM ruby:latest
+FROM ruby:2.7
 
 RUN gem install bundler -v '2.1.2'
 

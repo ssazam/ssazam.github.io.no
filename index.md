@@ -16,5 +16,7 @@ My current research lies in the intersection of **Representation Learning, Distr
 
 ## Recent Updates
 
-- Conference submission to [**ICML 2021**](https://icml.cc/Conferences/2021/CallForPapers): [Towards Generalized and Distributed Privacy-Preserving Representation Learning](https://arxiv.org/abs/2010.01792)
-- Journal submission to [**IEEE JSAC**](https://www.comsoc.org/publications/journals/ieee-jsac): [Multi-Stage Hybrid Federated Learning over Large-Scale Wireless Fog Networks](https://arxiv.org/abs/2007.09511) 
+- Journal submission to [**IEEE JSAC 2021**](https://www.comsoc.org/publications/journals/ieee-jsac){:target="_blank"}: [Two Timescale Hybrid Federated Learning with Cooperative D2D Local Model Aggregations](https://cbrinton.net/TTHF-JSAC-2021.pdf){:target="_blank"}
+- Conference submission to [**ICML 2021**](https://icml.cc/Conferences/2021/CallForPapers){:target="_blank"}: [Towards Generalized and Distributed Privacy-Preserving Representation Learning](https://arxiv.org/abs/2010.01792){:target="_blank"}
+- Journal submission to [**IEEE TON 2020**](https://newslab.ece.ohio-state.edu/ton/){:target="_blank"}: [Multi-Stage Hybrid Federated Learning over Large-Scale Wireless Fog Networks](https://arxiv.org/abs/2007.09511){:target="_blank"}
+

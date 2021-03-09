@@ -15,7 +15,15 @@ layout: resume
 
 ## Graduate Courses
 
-**Fall 2020 (Under Progress)**
+**Spring 2021 (Under Progress)**
+
+| [**ECE 695**](https://engineering.purdue.edu/DeepLearn/) | Deep Learning | Credit | [**Prof. Charles A. Bouman**](https://engineering.purdue.edu/~bouman/) |
+| | | | [**Prof. Avinash Kak**](https://engineering.purdue.edu/kak/) |
+| [**ECE 695**](https://engineering.purdue.edu/online/courses/generative-models) | Generative Models | Credit | [**Prof. Joseph Makin**](https://engineering.purdue.edu/MakinLab/people) |
+| [**ECE 637**](https://engineering.purdue.edu/~bouman/ece637/) | Digital Image Processing I | Audit | [**Prof. Charles A. Bouman**](https://engineering.purdue.edu/~bouman/) |
+
+
+**Fall 2020**
 
 | [**MA 511**](https://www.math.purdue.edu/academic/courses/coursepage?subject=MA&course=51100) | Linear Algebra & Its Applications | Credit | [**Prof. Saugata Basu**](https://www.math.purdue.edu/~sbasu/) |
 | [**AAE 561**](https://catalog.purdue.edu/preview_course_nopop.php?catoid=9&coid=89885) | Introduction to Convex Optimization | Credit | [**Prof. Dengfeng Sun**](https://web.ics.purdue.edu/~dsun/) |
